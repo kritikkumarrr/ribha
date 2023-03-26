@@ -1,0 +1,10 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.text-uppercase {
+  margin-left: 70px;
+}
+footer,h5{
+  font-family: 'Roboto Serif', serif;
+}

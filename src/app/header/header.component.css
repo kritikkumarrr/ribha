@@ -1,0 +1,13 @@
+a.navbar-brand {
+    padding-right: 200px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 5px 50px;
+    font-family: 'Roboto Serif', serif;
+}
+
+ul li a:hover {
+    background-color: rgb(153, 149, 149);
+
+}
